@@ -1,0 +1,209 @@
+The Bits and Bytes of Computer Networking - Summary
+
+Network
+
+A network is a group of devices connected together to exchange data.
+
+⸻
+
+LAN
+
+Local Area Network
+
+A small network inside a home, school, or company.
+
+⸻
+
+WAN
+
+Wide Area Network
+
+A network that connects multiple LANs across large distances.
+
+Example: The Internet.
+
+⸻
+
+IP Address
+
+A unique address assigned to a device on a network.
+
+Example:
+
+192.168.1.10
+
+⸻
+
+IPv4
+
+32-bit addressing system.
+
+Example:
+
+192.168.1.1
+
+⸻
+
+IPv6
+
+128-bit addressing system created to solve IPv4 exhaustion.
+
+Example:
+
+2001:db8::1
+
+⸻
+
+DNS
+
+Domain Name System
+
+Converts domain names into IP addresses.
+
+Example:
+
+google.com → IP Address
+
+⸻
+
+DHCP
+
+Dynamic Host Configuration Protocol
+
+Automatically assigns IP addresses to devices.
+
+⸻
+
+Router
+
+Connects different networks together and forwards traffic.
+
+⸻
+
+Switch
+
+Connects devices inside the same network.
+
+⸻
+
+TCP
+
+Reliable transport protocol.
+
+Features:
+
+* Connection-oriented
+* Error checking
+* Packet ordering
+
+⸻
+
+UDP
+
+Fast transport protocol.
+
+Features:
+
+* Connectionless
+* Low latency
+* No delivery guarantee
+
+⸻
+
+Port
+
+A logical communication endpoint.
+
+Common Ports:
+
+* 22 SSH
+* 53 DNS
+* 80 HTTP
+* 443 HTTPS
+
+⸻
+
+NAT
+
+Network Address Translation
+
+Allows multiple devices to share one public IP address.
+
+⸻
+
+VPN
+
+Virtual Private Network
+
+Creates an encrypted tunnel over the Internet.
+
+⸻
+
+Proxy
+
+A server that acts as an intermediary between a client and a destination server.
+
+⸻
+
+Firewall
+
+Filters network traffic based on security rules.
+
+⸻
+
+ICMP
+
+Internet Control Message Protocol
+
+Used for diagnostics and error reporting.
+
+Examples:
+
+* Ping
+* Traceroute
+
+⸻
+
+Cloud Computing
+
+Providing computing resources over the Internet.
+
+Cloud Models:
+
+* IaaS
+* PaaS
+* SaaS
+
+⸻
+
+Troubleshooting Tools
+
+Ping
+
+Tests connectivity.
+
+Traceroute
+
+Shows the path packets take.
+
+Nslookup
+
+Queries DNS information.
+
+Ipconfig
+
+Displays network configuration.
+
+⸻
+
+What I Learned
+
+* Networking Fundamentals
+* IP Addressing
+* DNS
+* DHCP
+* TCP/IP
+* NAT
+* VPN
+* Cloud Basics
+* Troubleshooting
